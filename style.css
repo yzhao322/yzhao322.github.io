@@ -1,0 +1,10 @@
+body{
+    background-color: cyan;
+    color: white;
+
+}
+section{
+    width: 900px;
+    margin: 0 auto;
+    background-color:grey;
+}
